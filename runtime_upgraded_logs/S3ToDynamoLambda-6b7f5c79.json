@@ -1,0 +1,8 @@
+{
+  "FunctionName": "S3ToDynamoLambda-6b7f5c79",
+  "OldRuntime": "python3.12",
+  "NewRuntime": "python3.11",
+  "Region": "us-east-1",
+  "Timestamp": "2025-07-21T17:56:59.306051Z",
+  "Status": "Dry run - not updated"
+}

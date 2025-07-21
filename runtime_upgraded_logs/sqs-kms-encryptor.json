@@ -1,0 +1,8 @@
+{
+  "FunctionName": "sqs-kms-encryptor",
+  "OldRuntime": "python3.12",
+  "NewRuntime": "python3.11",
+  "Region": "us-east-1",
+  "Timestamp": "2025-07-21T17:56:59.305274Z",
+  "Status": "Dry run - not updated"
+}
