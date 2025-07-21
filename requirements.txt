@@ -1,0 +1,5 @@
+boto3
+argparse
+colorama
+tabulate
+

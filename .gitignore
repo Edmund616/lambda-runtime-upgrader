@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# AWS credential/config files (if any)
+*.pem
+.aws/
+
+# macOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Terraform (if you add it)
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+
+# Logs and reports
+*.log
+data/report.json
+
+# Zip artifacts (Lambda packages, etc.)
+*.zip
